@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "varzea-brasil"
+    },
+    "varzea-brasil": {
+      "applicationId": "3HM3kuNdgoug7T4cY2nmNUsbEVv5sw1rHoI6Nyuw"
+    }
+  }
+}
